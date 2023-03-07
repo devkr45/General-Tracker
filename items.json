@@ -1,0 +1,35 @@
+[
+    {
+        "url": "https://www.amazon.com/dp/B00F0DD0I6/ref=s9_acsd_al_bw_c2_x_0_t?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=J9XVQ2D1SRP3W73J685H&pf_rd_t=101&pf_rd_p=2fc35c0a-c6c9-4774-af15-1c246c572573&pf_rd_i=21217028011",
+        "check": 1,
+        "check_against": 10,
+        "htmlId": "a-price-whole",
+        "check_period": 5000,
+        "notify": {
+            "notification_type": "email",
+            "address": ""
+        }
+    },
+    {
+        "url": "https://www.ebay.com/itm/264969380448",
+        "check": 1,
+        "check_against": 100,
+        "htmlId": "prcIsum",
+        "check_period": 5000,
+        "notify": {
+            "notification_type": "email",
+            "address": ""
+        }
+    },
+    {
+        "url": "https://coinmarketcap.com/currencies/bitcoin/",
+        "check": 2,
+        "check_against": 100,
+        "htmlId": "priceValue",
+        "check_period": 5000,
+        "notify": {
+            "notification_type": "email",
+            "address": ""
+        }
+    }
+]
