@@ -13,4 +13,5 @@ This bot is created so it can run on any reaspberry, notify and track informatio
 ### To Dos
 * Able to use the period feature which allows how often to track the information
 * Databse of past information which allows to download previously tracked information from the local database
+* Notification should be working now
 
